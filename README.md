@@ -2,7 +2,7 @@
 
 ![Status badge](https://img.shields.io/badge/Status-Archived-important)
 
-This project is aims to perform sentiment analysis on IMDB dataset. 
+This project is aims to perform sentiment analysis on IMDB dataset. The dataset i have used .
 
 | Model | Accuracy|
 | --- | --- |
