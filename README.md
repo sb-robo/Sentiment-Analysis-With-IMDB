@@ -9,3 +9,10 @@ This project is aims to perform sentiment analysis on IMDB dataset. The dataset 
 | MLP | 86.36 |
 | Logistic Regression | 86.54 |
 | SVM | 86.59 |
+
+
+## Requirements
+- Sklearn
+- Numpy
+- Pandas
+- matplotlib
