@@ -16,3 +16,5 @@ This project is aims to perform sentiment analysis on IMDB dataset. The dataset 
 - Numpy
 - Pandas
 - matplotlib
+- Seaborn
+- XgBoost
