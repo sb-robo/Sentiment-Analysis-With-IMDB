@@ -4,9 +4,7 @@
 
 **Natural Language Processing**
 
-`Sentiment analysis` aims to determine the attitude of a speaker, writer, or other subject with respect to some topic or the overall contextual polarity or emotional reaction to a document, interaction, or event. The attitude may be a judgment or evaluation (see appraisal theory), affective state (that is to say, the emotional state of the author or speaker), or the intended emotional communication (that is to say, the emotional effect intended by the author or interlocutor).This is a basic form of Natural Language Processing (NLP) called Sentiment Analysis in which we will try and classify a movie review as either positive or negative.
-
-Given the availability of a large volume of online review data (Amazon, IMDB, etc.), sentiment analysis becomes increasingly important. In this project, a sentiment classifier is built which evaluates the polarity of a piece of text being either positive or negative. This project is aims to perform sentiment analysis on IMDB dataset.
+`Sentiment analysis` aims to determine the attitude of a speaker, writer, or other subject with respect to some topic or the overall contextual polarity or emotional reaction to a document, interaction, or event. The attitude may be a judgment or evaluation (see appraisal theory), affective state (that is to say, the emotional state of the author or speaker), or the intended emotional communication (that is to say, the emotional effect intended by the author or interlocutor).This is a basic form of Natural Language Processing (NLP) called Sentiment Analysis in which we will try and classify a movie review as either positive or negative. In this project, a sentiment classifier is built which evaluates the polarity of a piece of text being either positive or negative. This project is aims to perform sentiment analysis on IMDB dataset.
 
 ## Getting the Dataset ##
 
