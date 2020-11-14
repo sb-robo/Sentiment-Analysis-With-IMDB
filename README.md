@@ -17,12 +17,14 @@ The Training Dataset used is stored in the zipped folder: aclImbdb.tar file. Thi
 
 Code was tested with Python 3.8.3.
 - `Dependencies/Packages`:
-	- Keras 2.x
+	- Keras
 	- matplotlib
 	- seaborn
 	- numpy
 	- pandas
 	- scikit-learn
+	- NLTK
+	- nlpprepcrocess
 	- Jupyter Notebook
 
 You can install above packages by the following command:
@@ -43,8 +45,8 @@ You can install above packages by the following command:
 
 ### Results
 
-| Model | Accuracy|
-| --- | --- |
-| MLP | 86.36 |
-| Logistic Regression | 86.54 |
-| SVM | 86.59 |
+| Model | Accuracy | F1 Score | Precision | Recall |
+| --- | --- | --- | --- | --- |
+| MLP | 86.36 | - | - | - |
+| Logistic Regression | 86.54 | - | - | - |
+| SVM | 86.59 | - | - | - |
