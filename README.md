@@ -15,7 +15,7 @@ The Training Dataset used is stored in the zipped folder: aclImbdb.tar file. Thi
 
 Code was tested with Python 3.8.3.
 - `Dependencies/Packages`:
-	- Keras
+	- Keras 2.x
 	- matplotlib
 	- seaborn
 	- numpy
