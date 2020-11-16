@@ -45,6 +45,6 @@ You can install above packages by the following command:
 
 | Model | Accuracy | F1 Score | Precision | Recall |
 | --- | --- | --- | --- | --- |
-| MLP | 86.36 | - | - | - |
+| MLP | 86.37 | - | - | - |
 | Logistic Regression | 86.54 | - | - | - |
 | SVM | 86.59 | - | - | - |
